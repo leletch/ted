@@ -1,0 +1,1 @@
+import { criarFila, inserirNaFila, retirarDaFila} from './fila.js'
